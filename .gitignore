@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ox/
+build/
+*.pyz
+ox-test-report.json
+.pytest_cache/
